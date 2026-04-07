@@ -1,3 +1,5 @@
+// Feito por: Alessandro Samir Borges dos Santos Lelis
+
 String montarSequencia(int numSequencia) {
   int primeiroNumeroSequencia = 1;
   int segundoNumeroSequencia = 5;

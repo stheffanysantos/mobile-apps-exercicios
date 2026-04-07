@@ -1,3 +1,5 @@
+// Feito por: Alessandro Samir Borges dos Santos Lelis
+
 BigInt fatorial(int n) {
   BigInt resultado = BigInt.one;
   for (int i = 2; i <= n; i++) {
